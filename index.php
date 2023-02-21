@@ -22,6 +22,7 @@
         </header>
         <section class="max-h-[500px] overflow-y-auto m-4">
             <nav class="flex flex-col gap-2 items-center">
+    
                 <a href="01-clas.php"
                     class="bg-blue-300 px-4 py-2 text-black/80 rounded w-[230px] opacity-80 hover:opacity-100 hover:scale-105 transition-all flex"><svg
                         xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
@@ -30,7 +31,7 @@
                             d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
                     01 - Class</a>
-                <a href=""
+                <a href="02-Construct.php"
                     class="bg-blue-300 px-4 py-2 text-black/80 rounded w-[230px] opacity-80 hover:opacity-100 hover:scale-105 transition-all flex"><svg
                         xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                         stroke="currentColor" class="w-6 h-6">
@@ -38,7 +39,7 @@
                             d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
                     02 - construct</a>
-                <a href=""
+                <a href="03-private.php"
                     class="bg-blue-300 px-4 py-2 text-black/80 rounded w-[230px] opacity-80 hover:opacity-100 hover:scale-105 transition-all flex"><svg
                         xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                         stroke="currentColor" class="w-6 h-6">
